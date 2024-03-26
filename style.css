@@ -1,15 +1,20 @@
 body {
-    background-color:whitesmoke;
+  background-color: whitesmoke;
 }
 
 h1 {
-    font-size: 20px;
-    color: #0066cc;
-    background-color: #d3eeff;
-    padding: 4px;
+  font-size: 20px;
+  color: #0066cc;
+  background-color: #d3eeff;
+  padding: 4px;
 }
 
-h2{
-    font-size: 18px;
-    color: orange;
+h2 {
+  font-size: 14px;
+  color: coral;
+}
+
+p {
+  font-size: 14px;
+  margin: 0;
 }
